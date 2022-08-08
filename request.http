@@ -2,7 +2,7 @@ POST http://localhost:5000/api/auth/register
 Content-Type: application/json
 
 {
-    "email": "truyenbi2@gmail.com",
+    "email": "truyenbi13@gmail.com",
     "password": "admin"
 }
 
@@ -11,6 +11,6 @@ POST http://localhost:5000/api/auth/login
 Content-Type: application/json
 
 {
-    "email": "truyenbi@gmail.com",
+    "email": "truyenbi13@gmail.com",
     "password": "admin"
 }
